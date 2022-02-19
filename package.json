@@ -1,0 +1,6 @@
+{
+    "name": "com.gentome.test_runner_execute",
+    "version": "1.0",
+    "displayName": "TestrunnerExecute",
+    "description": "テストランナーをスクリプトから起動する"
+}
